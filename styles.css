@@ -1,2 +1,6 @@
-
-/* Your CSS Code here. */
+#actor, #quote {
+	background-color : yellow;
+	color : green ;
+	padding : 20px;
+	margin : 20px 0px;
+}
